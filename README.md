@@ -13,4 +13,4 @@ npm run dev
 ```
 and you have to set the .env tou your database name and user,password before you run prisma migrate then
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/products](http://localhost:3000/products) with your browser to see the result.
